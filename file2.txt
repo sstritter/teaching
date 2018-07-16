@@ -5,3 +5,4 @@ for i in range(x):
     print "skip"
     print "1123456789
     print i
+    print "test test test"
