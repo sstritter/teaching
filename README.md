@@ -1,2 +1,2 @@
 # teaching
-for demos
+for git demos
