@@ -3,4 +3,5 @@ y = 20
 
 for i in range(x):
     print "skip"
+    print "1123456789
     print i
