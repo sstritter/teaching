@@ -4,3 +4,4 @@ z = 30
 
 for i in range(x+y):
     print i
+    print "sienna"
