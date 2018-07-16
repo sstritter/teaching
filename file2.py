@@ -2,5 +2,5 @@ x = 10
 y = 20
 z = 30
 
-for i in range(x):
+for i in range(y):
     print i
